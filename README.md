@@ -11,7 +11,7 @@ What are the most influential factors or features that contribute to the ratings
 
 This dataset provides detailed nutritional and categorical information about various cereal products, including:
 
-1. Name: The name of the cereal.
+1. Name: The name of the cereal.   
 
 2. Calories: The number of calories per serving.
 
